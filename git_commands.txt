@@ -1,0 +1,4 @@
+git config --global user.name "Your Name"	Set your Git username
+git config --global user.email "you@example.com"	Set your Git email
+git config --list	Show all Git config settings
+git config --global core.editor nano
